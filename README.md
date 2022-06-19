@@ -1,2 +1,2 @@
-# JUST DO THAT!
-https://goodideagiver.github.io/click-the-button/
+# JUST CLICK THE BUTTON AND YOU WILL BE AMAZED!
+https://redbulldev.github.io/clickTheButton/
